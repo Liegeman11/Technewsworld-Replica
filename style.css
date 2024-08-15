@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: o;
+    box-sizing: border-box;
+}
+.box{
+    background-color: red;
+    padding: 20px;
+}
+body{
+    background-color:aliceblue;
+}
+.div1{
+    background-color: white;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.331);
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.274);
+    margin-top: 15px;
+    padding: 5px 10px;
+    width: 750px;
+    font-size: 14px;
+    margin-bottom: 30px;
+    margin-left: 600px;
+}
+.btn{
+    margin-left: 900px;
+    margin-bottom: 50px;
+}
+button{
+    background-color: red;
+    color: white;
+width: 200px;
+height: 40px;
+}
+#topbutton{
+    position: fixed;
+    right: 0;
+    left: o;
+}
